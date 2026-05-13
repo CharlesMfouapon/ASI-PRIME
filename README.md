@@ -153,7 +153,7 @@ Open an issue for discussion before submitting pull requests.
 
 *Charles Mfouapon*
 
-[https://hewrites.vercel.app](Website) · [https://linkedin.com/in/charlesmfouapon](LinkedIn) · [https://charlesmfouapon.substack.com](Substack)
+[Website](https://hewrites.vercel.app) · [LinkedIn](https://linkedin.com/in/charlesmfouapon) · [Substack](https://charlesmfouapon.substack.com)
 
 ---
 
